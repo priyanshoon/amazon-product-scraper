@@ -4,7 +4,7 @@ This is a simple amazon product scraper using puppeteer and nuxtjs as backend an
 
 To run this program make sure the following requirements:
 1. Nodejs of version 20
-2. yarn should be install
+2. yarn should be installed
 
 To run this program follow the steps:
 
@@ -17,6 +17,4 @@ yarn dev
 
 ## The demo video of this project
 
-<video width="320" height="240" controls>
-  <source src="./demo/demo.mp4" type="video/mp4">
-</video>
+[](https://vimeo.com/933329189 "Demo Video")
