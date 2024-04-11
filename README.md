@@ -17,4 +17,4 @@ yarn dev
 
 ## The demo video of this project
 
-[](https://vimeo.com/933329189 "Demo Video")
+![](https://vimeo.com/933329189 "Demo Video")
