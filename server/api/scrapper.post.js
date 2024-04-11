@@ -58,7 +58,7 @@ async function scroll(page) {
                     }
                     // product price
                     try {
-                        product.price = element.querySelector('[class="a-offscreen]').innerHTML
+                        product.price = element.querySelector('[class="a-offscreen"]').innerHTML
                     } catch (error) {
                         console.log('no price')
                     }
